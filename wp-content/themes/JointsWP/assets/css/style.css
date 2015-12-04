@@ -527,3 +527,46 @@ p {
   line-height: 75px;
   background: #aaa;
 }
+
+
+/************************************
+	PERSPECTIVES ABOUT-PAGE STYLE
+*************************************/
+
+
+
+/*
+.text-content-clear {
+	margin: 0px;
+	padding: 0px;	
+}
+*/
+
+#school_content {
+	width: 80%;
+	text-align: center;
+	display: block;
+}
+
+#image img {
+	width: 30px;
+}
+
+#school_content h3 {
+
+	color: #464646;
+	font-family: 'Code', sans-serif;
+	font-size: 1.6em;
+	font-weight: 300;
+	line-height: 1em;
+
+}
+#school_content p {
+	color: rgba(146,146,146,1.00);
+	font-family: helvetica, sans-serif;
+  	font-size: 1.1em;
+  	line-height: 0.9em;
+  	font-weight: lighter;
+	overflow-y: auto;
+}
+/*-------END ABOUT-PAGE STYLE-----*/
